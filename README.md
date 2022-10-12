@@ -1,7 +1,7 @@
 ### My name is Tim Hanewich, welcome to my GitHub profile! 👋
 **Power Platform Technical Specialist at Microsoft by day, tireless tinkerer by night!** 
 
-I was first exposed to to software development in middle school by [Roblox](https://en.wikipedia.org/wiki/Roblox), using the [Lua programming language](https://en.wikipedia.org/wiki/Lua_(programming_language)). This planted the seed that has now grown into what I do every day. I picked development back up in 2018 and haven't put it down since!
+I was first exposed to to software development in middle school by [Roblox](https://en.wikipedia.org/wiki/Roblox), using the [Lua programming language](https://en.wikipedia.org/wiki/Lua_(programming_language)). This planted the seed that has now grown into what I love do every day. I picked development back up in 2018 and haven't put it down since!
 
 Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests.
 
