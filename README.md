@@ -10,8 +10,7 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - 🤖 [An autonomous and HTTP-controlled mecanum-wheeled rover](https://youtu.be/aail1p8Snfg), with the Raspberry Pi Pico W
 - 🏎️ [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5), A Windows app for live telemetry display, coaching, and driving analysis for the F1 video game by Codemasters
 - 💲 [Earnings Alley](https://twitter.com/EarningsAlley?s=20&t=bwCZPkYYZ-xK9WZpRiQWHg), a Twitter bot that tweets about highlights in wall street's latest earnings releases and more.
-- 🌡️ IoT project using sensor-equipped Raspberry Pi's to read and report temperature and humidity data around the house
-
+- 🌡️ [IoT project using sensor-equipped Raspberry Pi's to read temperature and humidity data and display in a Power App](https://youtu.be/BYmdi3mYHhM)
 - 🏍️ An LED-equipped "smart jacket" for motorcyclists that improves visibility (safety) by illuminating at specific high-risk moments during a ride
 - 🧰 [A C# library for easily implementing the OData format](https://github.com/TimHanewich/TimHanewich.OData) in any .NET-based API.
 - ♟️ A [Chess Engine](https://github.com/TimHanewich/TimHanewich.Chess) written in .NET (C#) that evaluates positions and is capable of strategic and tactical play
