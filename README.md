@@ -20,7 +20,7 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - 🤖 [An autonomous and HTTP-controlled mecanum-wheeled rover](https://youtu.be/aail1p8Snfg), with the Raspberry Pi Pico W
 
 ### Connect with me!
-- 🐦 Follow me [on Twitter](https://twitter.com/TimHanewich)
+- 🐦 Follow me [on Twitter/X](https://twitter.com/TimHanewich)
 - 🔖 I write [on Medium](https://timhanewich.medium.com/)
 - 💼 Connect with me [on LinkedIn](http://linkedin.com/in/TimHanewich)
 - 🔧 I share my .NET libraries [on NuGet](https://www.nuget.org/profiles/TimHanewich)
