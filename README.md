@@ -8,6 +8,7 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 ### What I'm Working on
 - 🚁 [Scout](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24), my custom-developed quadcopter drone flight controller software
 - 🔗 [Aletheia](https://aletheiaapi.com/), a financial data API with a Microsoft-certified Power Platform Connector 
+- 😷 [IoT Indoor Air Quality Sensor with 3D-printed Housing](https://github.com/TimHanewich/air-quality-box)
 - 🌡️ [IoT project using sensor-equipped Raspberry Pi's to read temperature and humidity data and display in a Power App](https://youtu.be/BYmdi3mYHhM)
 - 🏎️ [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5), A Windows app for live telemetry display, coaching, and driving analysis for the F1 video game by Codemasters
 - 🛏️ [An interactive web server that controls LED lights beneath my bed and coordinate to my sleeping patterns](https://github.com/TimHanewich/bed-light-server)
