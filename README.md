@@ -6,6 +6,7 @@ I was first exposed to to software development in middle school by [Roblox](http
 Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests.
 
 ### What I'm Working on
+- 🚁 [Scout](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24), my custom-developed quadcopter drone flight controller software
 - 🔗 [Aletheia](https://aletheiaapi.com/), a financial data API with a Microsoft-certified Power Platform Connector 
 - 🤖 [An autonomous and HTTP-controlled mecanum-wheeled rover](https://youtu.be/aail1p8Snfg), with the Raspberry Pi Pico W
 - 🏎️ [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5), A Windows app for live telemetry display, coaching, and driving analysis for the F1 video game by Codemasters
