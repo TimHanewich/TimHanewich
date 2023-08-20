@@ -6,7 +6,7 @@ I was first exposed to to software development in middle school by [Roblox](http
 Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests.
 
 ### What I'm Working on
-- 🚁 [Scout](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24), my custom-developed quadcopter drone flight controller software
+- 🚁 [Scout](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24), my custom-developed quadcopter drone flight controller firmware
 - 🔗 [Aletheia](https://aletheiaapi.com/), a financial data API with a Microsoft-certified Power Platform Connector 
 - 😷 [IoT Indoor Air Quality Sensor with 3D-printed Housing](https://github.com/TimHanewich/air-quality-box)
 - 🌡️ [IoT project using sensor-equipped Raspberry Pi's to read temperature and humidity data and display in a Power App](https://youtu.be/BYmdi3mYHhM)
