@@ -3,18 +3,28 @@ At Microsoft, I empower State & Local Government with the Power Platform. Beyond
 
 Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests or continue reading below!
 
+## ARTIFICIAL INTELLIGENCE
+- AIDA
+- [TimHanewich.AgentFramework](https://github.com/TimHanewich/TimHanewich.AgentFramework)
+- [LLM-Driven Text Adventure Game](https://github.com/TimHanewich/LLM-TAG)
+- Tetris AI: https://github.com/TimHanewich/tetris-ai-mini
+- Baseball Betting NN: https://github.com/TimHanewich/Baseball-Betting-NN
+
 ## ROBOTICS
 - 🚁 [Scout](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24), my custom-developed quadcopter drone flight controller firmware
 - PYPER
 - PYPER 2
 - Ranger
 - 🤖 [An autonomous and HTTP-controlled mecanum-wheeled rover](https://youtu.be/aail1p8Snfg), with the Raspberry Pi Pico W
+- LoRaLink 3D-printed controller: https://github.com/TimHanewich/LoRaLink
 
 ## FINANCE
 - 🔗 [Aletheia](https://aletheiaapi.com/), a financial data API with a Microsoft-certified Power Platform Connector 
 - 💲 [Earnings Alley](https://twitter.com/EarningsAlley?s=20&t=bwCZPkYYZ-xK9WZpRiQWHg), a Twitter bot that tweets about highlights in wall street's latest earnings releases and more.
+- SEC EDGAR nuget package: https://github.com/TimHanewich/SecuritiesExchangeCommission.Edgar
+- Xbrl: https://github.com/TimHanewich/Xbrl
 
-## CONNECTED IoT
+## CONNECTED DEVICES & IoT
 - 🏍️ An LED-equipped "smart jacket" for motorcyclists that improves visibility (safety) by illuminating at specific high-risk moments during a ride
 - 😷 [IoT Indoor Air Quality Sensor with 3D-printed Housing](https://github.com/TimHanewich/air-quality-box)
 - 🌡️ [IoT project using sensor-equipped Raspberry Pi's to read temperature and humidity data and display in a Power App](https://youtu.be/BYmdi3mYHhM)
@@ -24,10 +34,13 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - 🏎️ [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5), A Windows app for live telemetry display, coaching, and driving analysis for the F1 video game by Codemasters
 - ♟️ A [Chess Engine](https://github.com/TimHanewich/TimHanewich.Chess) written in .NET (C#) that evaluates positions and is capable of strategic and tactical play
 
-### What I'm Working on
-- 🧰 [A C# library for easily implementing the OData format](https://github.com/TimHanewich/TimHanewich.OData) in any .NET-based API.
+## MICROSOFT TOOLS
+- PACHI: https://github.com/TimHanewich/PACHI
 - 🛠️ [.NET class library](https://github.com/TimHanewich/TimHanewich.Cds) SDK for authenticating and transacting with the **Microsoft Dataverse** web API
+- Graph Helper: https://www.nuget.org/packages/TimHanewich.MicrosoftGraphHelper
 
+## Coding Tools
+- 🧰 [A C# library for easily implementing the OData format](https://github.com/TimHanewich/TimHanewich.OData) in any .NET-based API.
 
 ### Connect with me!
 - 🐦 Follow me [on Twitter/X](https://twitter.com/TimHanewich)
