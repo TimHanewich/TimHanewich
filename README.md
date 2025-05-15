@@ -7,6 +7,8 @@ At Microsoft, I empower State & Local Government with the Power Platform. Beyond
 - 💼 Connect with me [on LinkedIn](http://linkedin.com/in/TimHanewich)
 - 🔗 [Explore more on my personal website](https://timhanewich.github.io/) – A central hub for my projects, articles, and social links.
 
+My projects are highlighted below:
+
 ## 🧠 AI & MACHINE LEARNING
 - [TimHanewich.AgentFramework](https://github.com/TimHanewich/TimHanewich.AgentFramework) (2025) - lightweight .NET library for building AI agents with LLMs, offering modular tools for message handling, token management, and automation.
 - [AIDA](https://github.com/TimHanewich/AIDA) (2025) - lightweight AI desktop assistant that connects generative AI to your console, enabling interaction with large language models and desktop resources.
