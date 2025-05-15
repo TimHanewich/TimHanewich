@@ -40,7 +40,7 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - [Microsoft Graph Helper](https://github.com/TimHanewich/TimHanewich.MicrosoftGraphHelper) (2021) - .NET package simplifying authentication and interaction with Microsoft Graph.
 - [PACHI](https://github.com/TimHanewich/PACHI) (2025) - experimental framework enabling an LLM to autonomously interact with a Power App.
 
-## ⚙️ SOFTWARE ENGINEERING
+## ⚙️ SOFTWARE ENGINEERING TOOLS
 - [TimHanewich.OData](https://github.com/TimHanewich/TimHanewich.OData) (2022) - A lightweight .NET library for building, parsing, and translating OData queries.
 
 ## 🎮 GAMING
