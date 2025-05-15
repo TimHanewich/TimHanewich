@@ -30,10 +30,10 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - [XBRL Library](https://github.com/TimHanewich/Xbrl) (2020) - .NET package for parsing and extracting financial data from XBRL documents.
 
 ## 📡 IoT & SMART DEVICES
-- 🏍️ An LED-equipped "smart jacket" for motorcyclists that improves visibility (safety) by illuminating at specific high-risk moments during a ride
-- 😷 [IoT Indoor Air Quality Sensor with 3D-printed Housing](https://github.com/TimHanewich/air-quality-box)
-- 🌡️ [IoT project using sensor-equipped Raspberry Pi's to read temperature and humidity data and display in a Power App](https://youtu.be/BYmdi3mYHhM)
-- 🛏️ [An interactive web server that controls LED lights beneath my bed and coordinate to my sleeping patterns](https://github.com/TimHanewich/bed-light-server)
+- [Security Webcam](https://github.com/TimHanewich/cam-monitor) (2024) - webcam-based image capture system for SBCs, uploading photos to Azure Blob Storage and enabling remote timelapse generation via FFMPEG.
+- [Motorcycle Smart Jacket](https://www.youtube.com/watch?v=AxWjqtQHraE) (2023) - GPS-enabled jacket for motorcyclists that improves visibility by illuminating at specific high-risk moments.
+- [Home Air Quality Sensor IoT](https://github.com/TimHanewich/air-quality-box) (2023) - IoT system that monitors indoor air quality in real-time, capturing CO₂, VOCs, and more.
+- [Mood Lighting Server](https://github.com/TimHanewich/bed-light-server) (2023) - IoT web server that controls WS2812B LED lights via HTTP requests, allowing for dynamic mood lighting.
 
 ## 🎮 GAMING
 - 🏎️ [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5), A Windows app for live telemetry display, coaching, and driving analysis for the F1 video game by Codemasters
