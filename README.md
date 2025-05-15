@@ -35,10 +35,6 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - [Home Air Quality Sensor IoT](https://github.com/TimHanewich/air-quality-box) (2023) - IoT system that monitors indoor air quality in real-time, capturing CO₂, VOCs, and more.
 - [Mood Lighting Server](https://github.com/TimHanewich/bed-light-server) (2023) - IoT web server that controls WS2812B LED lights via HTTP requests, allowing for dynamic mood lighting.
 
-## 🎮 GAMING
-- [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5) (2019) - Windows app for live telemetry display, coaching, and driving analysis for the official F1 video game by Codemasters.
-- [TimHanewich.Chess](https://github.com/TimHanewich/TimHanewich.Chess) (2022) - Chess positional evaluation engine written in .NET (C#), capable of tacticle and strategic play.
-
 ## 🛠️ MICROSOFT TOOLS
 - [TimHanewich.Dataverse](https://github.com/TimHanewich/TimHanewich.Dataverse) (2022) - lightweight .NET library for simplified authentication and interaction with Microsoft Dataverse.
 - [Microsoft Graph Helper](https://github.com/TimHanewich/TimHanewich.MicrosoftGraphHelper) (2021) - .NET package simplifying authentication and interaction with Microsoft Graph.
@@ -46,3 +42,7 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 
 ## ⚙️ SOFTWARE ENGINEERING
 - [TimHanewich.OData](https://github.com/TimHanewich/TimHanewich.OData) (2022) - A lightweight .NET library for building, parsing, and translating OData queries.
+
+## 🎮 GAMING
+- [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5) (2019) - Windows app for live telemetry display, coaching, and driving analysis for the official F1 video game by Codemasters.
+- [TimHanewich.Chess](https://github.com/TimHanewich/TimHanewich.Chess) (2022) - Chess positional evaluation engine written in .NET (C#), capable of tacticle and strategic play.
