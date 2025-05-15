@@ -22,6 +22,7 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - Ranger
 - 🤖 [An autonomous and HTTP-controlled mecanum-wheeled rover](https://youtu.be/aail1p8Snfg), with the Raspberry Pi Pico W
 - LoRaLink 3D-printed controller: https://github.com/TimHanewich/LoRaLink
+- eBike
 
 ## FINANCE
 - 🔗 [Aletheia](https://aletheiaapi.com/), a financial data API with a Microsoft-certified Power Platform Connector 
