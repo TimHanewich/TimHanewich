@@ -36,13 +36,13 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - [Mood Lighting Server](https://github.com/TimHanewich/bed-light-server) (2023) - IoT web server that controls WS2812B LED lights via HTTP requests, allowing for dynamic mood lighting.
 
 ## 🎮 GAMING
-- 🏎️ [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5), A Windows app for live telemetry display, coaching, and driving analysis for the F1 video game by Codemasters
-- ♟️ A [Chess Engine](https://github.com/TimHanewich/TimHanewich.Chess) written in .NET (C#) that evaluates positions and is capable of strategic and tactical play
+- [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5) (2019) - Windows app for live telemetry display, coaching, and driving analysis for the official F1 video game by Codemasters.
+- [TimHanewich.Chess](https://github.com/TimHanewich/TimHanewich.Chess) (2022) - Chess positional evaluation engine written in .NET (C#), capable of tacticle and strategic play.
 
 ## 🛠️ MICROSOFT TOOLS
-- PACHI: https://github.com/TimHanewich/PACHI
-- 🛠️ [.NET class library](https://github.com/TimHanewich/TimHanewich.Cds) SDK for authenticating and transacting with the **Microsoft Dataverse** web API
-- Graph Helper: https://www.nuget.org/packages/TimHanewich.MicrosoftGraphHelper
+- [TimHanewich.Dataverse](https://github.com/TimHanewich/TimHanewich.Dataverse) (2022) - lightweight .NET library for simplified authentication and interaction with Microsoft Dataverse.
+- [Microsoft Graph Helper](https://github.com/TimHanewich/TimHanewich.MicrosoftGraphHelper) (2021) - .NET package simplifying authentication and interaction with Microsoft Graph.
+- [PACHI](https://github.com/TimHanewich/PACHI) (2025) - experimental framework enabling an LLM to autonomously interact with a Power App.
 
 ## ⚙️ SOFTWARE ENGINEERING
-- 🧰 [A C# library for easily implementing the OData format](https://github.com/TimHanewich/TimHanewich.OData) in any .NET-based API.
+- [TimHanewich.OData](https://github.com/TimHanewich/TimHanewich.OData) (2022) - A lightweight .NET library for building, parsing, and translating OData queries.
