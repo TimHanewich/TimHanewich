@@ -1,10 +1,10 @@
 ### My name is Tim Hanewich, welcome to my GitHub profile! 👋
 At Microsoft, I empower State & Local Government with the Power Platform. Beyond my work at Microsoft, I’m always working on building something new...
 
-- 🐦 Follow me [on Twitter/X](https://twitter.com/TimHanewich)
-- 🔖 I write [on Medium](https://timhanewich.medium.com/)
+- 🐦 [Follow me on Twitter/X](https://twitter.com/TimHanewich) for updates on my latest projects
+- 📄 [Read my articles on Medium](https://timhanewich.medium.com/) where I discuss machine learning, robotics, and coding projects
+- 🔧 [Explore my .NET libraries on NuGet](https://www.nuget.org/profiles/TimHanewich) to find useful open-source tools
 - 💼 Connect with me [on LinkedIn](http://linkedin.com/in/TimHanewich)
-- 🔧 I share my .NET libraries [on NuGet](https://www.nuget.org/profiles/TimHanewich)
 
 Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests or continue reading below!
 
