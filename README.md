@@ -16,13 +16,12 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - [LLM-TAG](https://github.com/TimHanewich/LLM-TAG) (2025) - an LLM-driven text adventure game engine, inspired by the 1977 game *Zork*.
 
 ## 🚀 ROBOTICS & EMBEDDED SYSTEMS
-- 🚁 [Scout](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24), my custom-developed quadcopter drone flight controller firmware
-- PYPER
-- PYPER 2
-- Ranger
-- 🤖 [An autonomous and HTTP-controlled mecanum-wheeled rover](https://youtu.be/aail1p8Snfg), with the Raspberry Pi Pico W
-- LoRaLink 3D-printed controller: https://github.com/TimHanewich/LoRaLink
-- eBike
+- [The Scout Flight Controller](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24) (2023) - my custom-developed quadcopter drone flight controller firmware.
+- [PYPER](https://github.com/TimHanewich/PYPER) (2023) - Python-powered, 3D-printed electric rover designed from scratch, featuring custom-modeled parts, an onboard Raspberry Pi, and a multi-gear drivetrain for accessible robotics learning.
+- [PYPER 2](https://github.com/TimHanewich/PYPER2) (2024) - an evolved iteration of the PYPER platform featuring refined 3D modeling, LoRa-based communication, and an upgraded electronics package, powered by a Raspberry Pi Pico and programmed in MicroPython.
+- [Ranger](https://github.com/TimHanewich/ranger) (2024) - long-range endurance rover designed for global remote control via the web, using Azure Queue Storage for bidirectional communication and control.
+- [LoRa Link](https://github.com/TimHanewich/LoRaLink) (2024) - fully 3D-printed Long Range (LoRa) radio controller using a custom communication protocol.
+- [eBike Conversion](https://github.com/TimHanewich/eBike/) (2025) - strapped a 5,000-watt brushless motor onto an old Schwinn bicycle, designing and implementing a fully custom electronics package, including motor control, battery management, and 3D-printed mounting solutions.
 
 ## 💰 FINANCE
 - 🔗 [Aletheia](https://aletheiaapi.com/), a financial data API with a Microsoft-certified Power Platform Connector 
