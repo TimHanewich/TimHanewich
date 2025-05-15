@@ -49,4 +49,4 @@ My projects are highlighted below:
 
 ### 🎮 GAMING
 - [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5) (2019) - Windows app for live telemetry display, coaching, and driving analysis for the official F1 video game by Codemasters.
-- [TimHanewich.Chess](https://github.com/TimHanewich/TimHanewich.Chess) (2022) - Chess positional evaluation engine written in .NET (C#), capable of tacticle and strategic play.
+- [TimHanewich.Chess](https://github.com/TimHanewich/TimHanewich.Chess) (2022) - Chess positional evaluation engine written in .NET (C#), capable of tactical and strategic play.
