@@ -9,11 +9,11 @@ At Microsoft, I empower State & Local Government with the Power Platform. Beyond
 Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests or continue reading below!
 
 ## 🧠 AI & MACHINE LEARNING
-- AIDA
-- [TimHanewich.AgentFramework](https://github.com/TimHanewich/TimHanewich.AgentFramework)
-- [LLM-Driven Text Adventure Game](https://github.com/TimHanewich/LLM-TAG)
-- Tetris AI: https://github.com/TimHanewich/tetris-ai-mini
-- Baseball Betting NN: https://github.com/TimHanewich/Baseball-Betting-NN
+- [TimHanewich.AgentFramework](https://github.com/TimHanewich/TimHanewich.AgentFramework) (2025) - a lightweight .NET library for building AI agents with large language models, offering modular tools for message handling, token management, and automation.
+- [AIDA](https://github.com/TimHanewich/AIDA) (2025) - lightweight AI desktop assistant that connects generative AI to your console, enabling interaction with large language models and desktop resources.
+- [Tetris AI](https://github.com/TimHanewich/tetris-ai-mini) (2024) - use of Q-Learning, a reinforcement learning technique, to train an AI agent to play a simplified version of Tetris
+- [MLB Betting Line Predictor](https://github.com/TimHanewich/Baseball-Betting-NN) (2023) - A TensorFlow neural network that analyzes baseball game data to predict betting lines and win probabilities in real time.
+- [LLM-TAG](https://github.com/TimHanewich/LLM-TAG) (2025) - an LLM-driven text adventure game engine, inspired by the 1977 game *Zork*.
 
 ## 🚀 ROBOTICS & EMBEDDED SYSTEMS
 - 🚁 [Scout](https://medium.com/@timhanewich/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24), my custom-developed quadcopter drone flight controller firmware
