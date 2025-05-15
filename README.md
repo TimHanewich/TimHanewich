@@ -1,6 +1,11 @@
 ### My name is Tim Hanewich, welcome to my GitHub profile! 👋
 At Microsoft, I empower State & Local Government with the Power Platform. Beyond my work at Microsoft, I’m always working on building something new...
 
+- 🐦 Follow me [on Twitter/X](https://twitter.com/TimHanewich)
+- 🔖 I write [on Medium](https://timhanewich.medium.com/)
+- 💼 Connect with me [on LinkedIn](http://linkedin.com/in/TimHanewich)
+- 🔧 I share my .NET libraries [on NuGet](https://www.nuget.org/profiles/TimHanewich)
+
 Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests or continue reading below!
 
 ## ARTIFICIAL INTELLIGENCE
@@ -41,25 +46,3 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 
 ## Coding Tools
 - 🧰 [A C# library for easily implementing the OData format](https://github.com/TimHanewich/TimHanewich.OData) in any .NET-based API.
-
-### Connect with me!
-- 🐦 Follow me [on Twitter/X](https://twitter.com/TimHanewich)
-- 🔖 I write [on Medium](https://timhanewich.medium.com/)
-- 💼 Connect with me [on LinkedIn](http://linkedin.com/in/TimHanewich)
-- 🔧 I share my .NET libraries [on NuGet](https://www.nuget.org/profiles/TimHanewich)
-
-
-<!--
-**TimHanewich/TimHanewich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
