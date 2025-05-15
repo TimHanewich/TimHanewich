@@ -5,8 +5,7 @@ At Microsoft, I empower State & Local Government with the Power Platform. Beyond
 - 📄 [Read my articles on Medium](https://timhanewich.medium.com/) where I discuss machine learning, robotics, and coding projects
 - 🔧 [Explore my .NET libraries on NuGet](https://www.nuget.org/profiles/TimHanewich) to find useful open-source tools
 - 💼 Connect with me [on LinkedIn](http://linkedin.com/in/TimHanewich)
-
-Please visit [my personal website](https://timhanewich.github.io/) to read more about my passions and interests or continue reading below!
+- 🔗 [Explore more on my personal website](https://timhanewich.github.io/) – A central hub for my projects, articles, and social links.
 
 ## 🧠 AI & MACHINE LEARNING
 - [TimHanewich.AgentFramework](https://github.com/TimHanewich/TimHanewich.AgentFramework) (2025) - lightweight .NET library for building AI agents with LLMs, offering modular tools for message handling, token management, and automation.
