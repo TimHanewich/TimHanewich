@@ -24,10 +24,10 @@ Please visit [my personal website](https://timhanewich.github.io/) to read more 
 - [eBike Conversion](https://github.com/TimHanewich/eBike/) (2025) - strapped a 5,000-watt brushless motor onto an old Schwinn bicycle and designed the full electronics package.
 
 ## 💰 FINANCE
-- 🔗 [Aletheia](https://aletheiaapi.com/), a financial data API with a Microsoft-certified Power Platform Connector 
-- 💲 [Earnings Alley](https://twitter.com/EarningsAlley?s=20&t=bwCZPkYYZ-xK9WZpRiQWHg), a Twitter bot that tweets about highlights in wall street's latest earnings releases and more.
-- SEC EDGAR nuget package: https://github.com/TimHanewich/SecuritiesExchangeCommission.Edgar
-- Xbrl: https://github.com/TimHanewich/Xbrl
+- [Aletheia](https://aletheiaapi.com/) (2021) - financial data API with a Microsoft-certified Power Platform Connector.
+- [Earnings Alley](https://twitter.com/EarningsAlley) (2019) - Twitter bot that tweets about highlights in wall street's latest earnings releases and more.
+- [SEC EDGAR Library](https://github.com/TimHanewich/SecuritiesExchangeCommission.Edgar) (2020) - .NET package for accessing SEC EDGAR filings.
+- [XBRL Library](https://github.com/TimHanewich/Xbrl) (2020) - .NET package for parsing and extracting financial data from XBRL documents.
 
 ## 📡 IoT & SMART DEVICES
 - 🏍️ An LED-equipped "smart jacket" for motorcyclists that improves visibility (safety) by illuminating at specific high-risk moments during a ride
