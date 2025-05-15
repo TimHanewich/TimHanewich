@@ -41,8 +41,11 @@ My projects are highlighted below:
 - [Microsoft Graph Helper](https://github.com/TimHanewich/TimHanewich.MicrosoftGraphHelper) (2021) - .NET package simplifying authentication and interaction with Microsoft Graph.
 - [PACHI](https://github.com/TimHanewich/PACHI) (2025) - experimental framework enabling an LLM to autonomously interact with a Power App.
 
-## ⚙️ SOFTWARE ENGINEERING TOOLS
+## ⚙️ SOFTWARE ENGINEERING
 - [TimHanewich.OData](https://github.com/TimHanewich/TimHanewich.OData) (2022) - A lightweight .NET library for building, parsing, and translating OData queries.
+- [RYLR998 Driver](https://github.com/TimHanewich/MicroPython-Collection/tree/master/REYAX-RYLR998) (2024) – MicroPython driver for the REYAX RYLR998 LoRa module, enabling easy UART-based wireless communication for IoT projects.
+- [ENS160 Driver](https://github.com/TimHanewich/MicroPython-Collection/tree/master/ENS160) (2024) - lightweight driver for interfacing with the ENS160 multi-gas sensor, enabling air quality readings via I2C in embedded applications.
+- [MPU6050 Driver](https://github.com/TimHanewich/MicroPython-Collection/tree/master/MPU6050) (2023) - a lightweight driver for the MPU-6050 accelerometer and gyroscope, enabling motion sensing and orientation tracking via I2C.
 
 ## 🎮 GAMING
 - [Apex Visual](https://apps.microsoft.com/store/detail/apex-visual/9P5BLJV6W9B5) (2019) - Windows app for live telemetry display, coaching, and driving analysis for the official F1 video game by Codemasters.
