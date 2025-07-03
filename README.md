@@ -23,6 +23,7 @@ My projects are highlighted below:
 - [Ranger](https://github.com/TimHanewich/ranger) (2024) - long-range endurance rover designed for global remote control via the web, using Azure Queue Storage for bidirectional communication and control.
 - [LoRa Link](https://github.com/TimHanewich/LoRaLink) (2024) - fully 3D-printed Long Range (LoRa) radio controller using a custom communication protocol.
 - [eBike Conversion](https://github.com/TimHanewich/eBike/) (2025) - strapped a 5,000-watt brushless motor onto an old Schwinn bicycle and designed the full electronics package.
+- [Motorcycle Data Dashboard](https://github.com/TimHanewich/motorcycle-data-display) (2025) - dashboard for a motorcycle, displaying sensor telemetry like battery voltage, temperature, and humidity.
 
 ### 💰 FINANCE
 - [Aletheia](https://aletheiaapi.com/) (2021) - financial data API with a Microsoft-certified Power Platform Connector.
