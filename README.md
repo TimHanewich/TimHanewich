@@ -17,6 +17,7 @@ My projects are highlighted below:
 - [LLM-TAG](https://github.com/TimHanewich/LLM-TAG) (2025) - an LLM-driven text adventure game engine, inspired by the 1977 game *Zork*.
 
 ### 🚀 ROBOTICS & EMBEDDED SYSTEMS
+- [The Centauri Flight Controller](https://github.com/TimHanewich/centauri) (2025) - quadcopter flight controller, 3D-printed drone, PC-based controller code, and more.
 - [The Scout Flight Controller](https://timhanewich.medium.com/taking-flight-with-the-raspberry-pi-pico-micropython-diy-quadcopter-drone-61ed4f7ee746) (2023) - my custom-developed quadcopter drone flight controller firmware.
 - [PYPER](https://github.com/TimHanewich/PYPER) (2023) - Python-powered, 3D-printed electric rover designed from scratch.
 - [PYPER 2](https://github.com/TimHanewich/PYPER2) (2024) - an evolved iteration of the PYPER platform featuring LoRa-based communication and an improved design.
